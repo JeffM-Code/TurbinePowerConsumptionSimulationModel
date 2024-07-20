@@ -1,4 +1,4 @@
-## Power Consumption Simulation Model<br><br>
+## Turbine Power Consumption Simulation Model<br><br>
 [Model development](https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/GasTurbineConsumption)<br><br>
 [App](https://turbinepowerconsumptionsimulationmodel.streamlit.app/)<br><br>
 
