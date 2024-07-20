@@ -1,6 +1,6 @@
 ## Power Consumption Simulation Model<br><br>
 [Model development](https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/GasTurbineConsumption)<br><br>
-App<br><br>
+[App](https://turbinepowerconsumptionsimulationmodel.streamlit.app/)<br><br>
 
 The slider changes the % of data applied onto model for it to predict on, and the graphs either show voltage input over time or actual and predicted power over time.<br><br>
 

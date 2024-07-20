@@ -9,7 +9,7 @@ test_df = pd.read_csv('test.csv')
 with open('linear_regression_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
-st.title("Power Consumption Simulation Model")
+st.title("Turbine Power Consumption Simulation")
 
 test_size = st.slider("Select % of test data to showcase:", 10, 100, 10) / 100.0
 
