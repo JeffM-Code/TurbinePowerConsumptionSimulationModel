@@ -7,7 +7,7 @@ The slider changes the % of data applied onto model for it to predict on, and th
 ### Example:<br><br>
 <img src="example.png" alt="example" width="650"/><br><br>
 
-### Model analysis:<br><br>
+### Model Analysis:<br><br>
 ```
 X_train = train_df[['input_voltage']]
 y_train = train_df['el_power']
